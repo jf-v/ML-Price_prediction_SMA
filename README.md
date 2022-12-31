@@ -1,6 +1,6 @@
 # ML-Price_prediction_SMA
 
-Machine Learning for price movement prediction using SMA indicators, by JF-V
+Machine Learning for price movement prediction using SMA indicators
 December 2022
 
 Data for model training from CryptoDataDownload.com
