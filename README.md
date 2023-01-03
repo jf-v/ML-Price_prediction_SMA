@@ -29,4 +29,4 @@ to get price movement predictions for a certain amount of bars towards future. T
 
 * With the model already created or loaded and the prediction init cell executed, **run the model prediction**(cell 9) any times as needed. It can predict for bar series starting from current bar or for a historic bar selected by shift toward current bar index(0)
 
-### **DISCLAIMER**: The resources available on this project are purely and exclusively for educational purposes, and are not intended as, and shall not be understood or construed as, financial advice.
+>DISCLAIMER: The resources available on this project are purely and exclusively for educational purposes, and are not intended as, and shall not be understood or construed as, financial advice.
